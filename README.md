@@ -36,3 +36,5 @@
 ###扫描下方二维码关注我###
 
 ![零距离仰望星空](http://upload-images.jianshu.io/upload_images/1485695-3eca430266100927.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+####在此感谢各位读者的来访,您的关注是我写作分享的最大动力。
