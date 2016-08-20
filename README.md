@@ -30,3 +30,9 @@
 
 3.在终端执行 decompressionArch.sh
 ####[参考博文:](http://www.jianshu.com/p/cc5c69332dc6)####
+
+
+
+###扫描下方二维码关注我###
+
+![零距离仰望星空](http://upload-images.jianshu.io/upload_images/1485695-3eca430266100927.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
