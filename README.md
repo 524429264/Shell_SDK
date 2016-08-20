@@ -12,7 +12,6 @@ build_lib1 / build_lib2 / build_lib3
 3.将 lib.sh 中的内容复制到Shell 脚本框内
 4.在选择模拟器左边 单击选中创建的 Aggregate
 5.执行 command+B 编译工程
-
 ####[参考博文:](http://www.jianshu.com/p/69a9b6d9875e)####
 
 
@@ -22,7 +21,6 @@ build_lib1 / build_lib2 / build_lib3
 1.新建一个空文件夹,将 decompressionArch.sh 与需要解压的静态库放入
 2.打开 decompressionArch.sh 添加静态库名称
 3.在终端执行 decompressionArch.sh
-
 ####[参考博文:](http://www.jianshu.com/p/cc5c69332dc6)####
 
 
