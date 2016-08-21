@@ -26,9 +26,10 @@
 ###解压静态库##
 1.新建一个空文件夹,将 decompressionArch.sh 与需要解压的静态库放入
 
-2.打开 decompressionArch.sh 添加静态库名称
-
-3.在终端执行 decompressionArch.sh
+2.打开 decompressionArch.sh 修改解压出来的静态库,
+ 默认为 armv7
+ 
+2.在终端执行 decompressionArch.sh
 ####[参考博文:](http://www.jianshu.com/p/cc5c69332dc6)####
 
 

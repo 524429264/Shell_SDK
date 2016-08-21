@@ -8,7 +8,10 @@ cd $filepath
 #静态库包含的 architecture
 array=("i386" "x86_64" "armv7" "armv7s" "arm64")
 #静态库名称
-libname="libCMBC_iOS_C2CPay.a"
+name=$(find . -name "*.a")
+
+libname=${name#*/}
+
 
 #需要解压出来的静态库 architecture
 archname=${array[2]}.a
@@ -30,7 +33,7 @@ fun2()
 
 
 #选择执行相应的方法 fun1/fun2
-fun2
+fun1
 
 
 
